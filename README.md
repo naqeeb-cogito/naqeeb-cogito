@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naqeeb-cognito
+- 👋 Hi, I’m @naqeeb-cogito
 - 👀 I’m interested in DevOps and meditation
 - 🌱 I’m currently learning kubernetes and pulumi
 - 💞️ I’m looking to collaborate on everything
